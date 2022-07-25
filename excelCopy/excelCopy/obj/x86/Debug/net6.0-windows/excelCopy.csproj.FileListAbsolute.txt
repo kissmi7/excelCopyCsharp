@@ -1,0 +1,17 @@
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\bin\x86\Debug\net6.0-windows\excelCopy.exe
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\bin\x86\Debug\net6.0-windows\excelCopy.deps.json
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\bin\x86\Debug\net6.0-windows\excelCopy.runtimeconfig.json
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\bin\x86\Debug\net6.0-windows\excelCopy.dll
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\bin\x86\Debug\net6.0-windows\excelCopy.pdb
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.csproj.AssemblyReference.cache
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.Form1.resources
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.csproj.GenerateResource.cache
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.AssemblyInfoInputs.cache
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.AssemblyInfo.cs
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.csproj.CoreCompileInputs.cache
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.dll
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\refint\excelCopy.dll
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.pdb
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\excelCopy.genruntimeconfig.cache
+D:\source\CSharp\excelCopy\excelCopy\excelCopy\obj\x86\Debug\net6.0-windows\ref\excelCopy.dll
